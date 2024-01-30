@@ -16,9 +16,9 @@ Même en modifiant cette partie c’est-à-dire en changeant le « dp » je n’
 •	Faire dépasser les images des 4 plantes du cadre malgré la modification du cadreView & le changement de Width/Height des plantes. Lorsque je changeais les valeurs, les cadres disparaissaient et devenaient beaucoup trop grand.
 •	 Les boutons de flèches à droite de chaque image je n’ai pas pu les mettre MEME AVEC LA FONCTION ImageButton car peu de places sur les cadres et les encercler en vert a été aussi compliqué. Mais j’avais bien l’image dans le drawable : « bouton_fleche »
 
+Un lien qui m'a bien aidé : https://codingzest.com/creating-a-modern-dashboard-ui-in-android-studio/
 
 
-
-Captures d'écran DESIGN ATTENDU vs MON DESIGN (voir readme pdf)
+Captures d'écran DESIGN ATTENDU vs MON DESIGN (voir readme doc.x)
 
                    
